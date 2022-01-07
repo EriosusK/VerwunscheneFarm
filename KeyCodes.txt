@@ -1,0 +1,19 @@
+https://keycode.info/
+
+For example the key code for 'b' is 66. Then inside a scriptcall, you do this:
+JavaScript:
+
+Input.keyMapper[66] = 'b'
+
+
+Then when you wanna check for it you do:
+JavaScript:
+
+Input.isTriggered('b')
+
+
+
+ZUM BEISPIEL: 
+
+
+in einer if Bedingung -> Script (in das feld einfügen) -> Input.keyMapper[66] = 'b'; Input.isTriggered('b')
