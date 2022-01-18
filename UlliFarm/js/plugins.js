@@ -6,5 +6,5 @@ var $plugins =
 {"name":"EliMZ_SelfVariables","status":true,"description":"v3.1.1 - Self Variables fully integrated with events!","parameters":{"eventIdVar":"0","mapIdVar":"0"}},
 {"name":"EliMZ_SelfSwitches","status":true,"description":"v3.1.3 - Enhance the self switch commands and functionality.","parameters":{}},
 {"name":"GRB_SelfVarsAndSwitches","status":true,"description":"Self variables and more self-switches","parameters":{"prefixes":"[\"(Лок.)\",\"(лок.)\",\"(Лак.)\",\"(лак.)\",\"(Self)\",\"(self)\"]"}},
-{"name":"GRB_SelfVarsAndSwitches","status":true,"description":"Self variables and more self-switches","parameters":{"prefixes":"[\"(Лок.)\",\"(лок.)\",\"(Лак.)\",\"(лак.)\",\"(Self)\",\"(self)\"]"}}
+{"name":"PathFinder","status":true,"description":"v1.0.1 - Pathfinding, move route generator.","parameters":{}}
 ];
