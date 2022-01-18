@@ -1,14 +1,25 @@
-Eric Schreibt Briefe nach bestimmten Ereignissen -> Postbotenevent bringt sie auf Karte "zuhause"    -> offen
-Mütter sagen unterschiedliche Dinge nach Ereig. -> Eigene eventseite -> offen
-Molly kann auf karte Zuhause weggeschickt und gerufen werden -> offen
+Eric Schreibt Briefe nach bestimmten Ereignissen -> Postbotenevent bringt sie auf Karte "zuhause"    -> check
+Mütter sagen unterschiedliche Dinge nach Ereig. -> Eigene eventseite -> check
+Molly kann auf karte Zuhause weggeschickt und gerufen werden -> check
 Molly im Wald -> Kaninchen unterrichtet springen als skill -> nach oben zu fuchs (wird freund) auch oben Eichhörnchen lernt kletter -> damit nach rechts möglich Bär KAMPF -> offen
-Geld irgendwoher damit neue Harke beim händler in Fischerdorf1 möglich
+Geld irgendwoher damit neue Harke beim händler in Fischerdorf1 möglich -> check
 
 
 
 VLL?
 Molly lernt mit Mystischem buch kämpfen? kann wertvolle sachen aus dem Wald holen? mit angepflanzten sachen stärker werden? coabhängigkeit?
+-> kämpfe noch offen
+
 
 WIE?
-Samen wachsen lassen? 
-GELD verdienen?
+Samen wachsen lassen?  -> check !!!
+GELD verdienen? -> durch verkauf von pflanzen check
+
+Neue IDEEN?????
+
+- Eric auf "dienstreise" begleiten -> Dafür Höhle von Jannik benutzen
+- Mehr dinge zum anbauen
+- Tiere zum pflegen?
+- mehr ressourcen einbinden? 
+- Kämpfe einbauen
+- vertonen? :P
