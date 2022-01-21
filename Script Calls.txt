@@ -1,1 +1,27 @@
+Allgemein RPG Maker MZ:
 https://docs.google.com/spreadsheets/d/1gQNAoYKpkO9Qglgbi8IplX_BPvXmfvG3Rk-R27W30DU/edit#gid=864055129
+
+
+Quest System:
+SQSM.OpenQuestJournal()
+
+SQSM.AddQuest(ID)
+     (all IDs should be in quotes "" )
+SQSM.ShowDescriptionForQuest(ID, INDEX)
+     (first quest description visible by default)
+SQSM.ShowTaskForQuest(ID, INDEX)
+     (first quest task visible by default)
+SQSM.ShowAllTasksForQuest(ID)
+d(ID, INDEX)
+SQSM.CompletQuest(ID)
+SQSM.Reset(ID)
+(remove quest from Journal and reset quest progress)
+
+SQSM.SetActiveQuest(ID, true \ false)
+     activate \ deactivate quest tracking on map
+
+SQSM.isQuestComplete(ID) - return true if quest with ID is completed
+SQSM.isQuestVisible(ID) - return true if quest with ID is added to journal
+SQSM.isQuestActive(ID) - return true if quest with IDD is activated (tracked)
+
+SQSM.Reset(ID) - remove quest from Journal (and reset quest progress)
