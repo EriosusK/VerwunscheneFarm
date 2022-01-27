@@ -14,5 +14,6 @@ null,
 {"id":12,"expanded":false,"name":"KaninchenSpringenMinispiel","order":13,"parentId":11,"scrollX":1056,"scrollY":595.7142857142857},
 {"id":13,"expanded":false,"name":"FriseurHaus","order":8,"parentId":5,"scrollX":1056,"scrollY":595.7142857142857},
 {"id":14,"expanded":true,"name":"Respara","order":14,"parentId":1,"scrollX":1056,"scrollY":844.2857142857142},
-{"id":15,"expanded":false,"name":"KüstevonRespara","order":15,"parentId":14,"scrollX":1056,"scrollY":595.7142857142857}
+{"id":15,"expanded":false,"name":"KüstevonRespara","order":15,"parentId":14,"scrollX":1056,"scrollY":595.7142857142857},
+{"id":16,"expanded":false,"name":"Bar","order":16,"parentId":14,"scrollX":1056,"scrollY":595.7142857142857}
 ]
