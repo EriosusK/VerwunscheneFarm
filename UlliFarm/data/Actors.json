@@ -9,5 +9,5 @@ null,
 {"id":7,"battlerName":"Actor1_7","characterIndex":6,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Eliot","nickname":"","note":"","profile":""},
 {"id":8,"battlerName":"Actor1_8","characterIndex":7,"characterName":"Actor1","classId":3,"equips":[7,0,0,20,0],"faceIndex":7,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roza","nickname":"","note":"","profile":""},
 {"id":9,"battlerName":"Actor1_6","characterIndex":1,"characterName":"bunny","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Schäfchen3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Schäfchen","nickname":"Schwarznasenschaf","note":"","profile":"Das süßeste Schwarznasenschäfchen weit und breit!"},
-{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+{"id":10,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Felix","nickname":"","note":"","profile":"Der Kater von Leon aus Respara."}
 ]
