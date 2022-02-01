@@ -25,3 +25,6 @@ SQSM.isQuestVisible(ID) - return true if quest with ID is added to journal
 SQSM.isQuestActive(ID) - return true if quest with IDD is activated (tracked)
 
 SQSM.Reset(ID) - remove quest from Journal (and reset quest progress)
+
+
+43 44 46 48 81 83
