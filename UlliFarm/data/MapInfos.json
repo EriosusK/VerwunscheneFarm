@@ -2,7 +2,7 @@
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1081.3333333333333,"scrollY":614.6666666666666},
 {"id":2,"expanded":false,"name":"Gegenstandsladen","order":6,"parentId":5,"scrollX":928.5,"scrollY":528},
-{"id":3,"expanded":true,"name":"Zuhause","order":2,"parentId":1,"scrollX":1571,"scrollY":641},
+{"id":3,"expanded":true,"name":"Zuhause","order":2,"parentId":1,"scrollX":926.25,"scrollY":520.5},
 {"id":4,"expanded":false,"name":"Haus 1","order":4,"parentId":3,"scrollX":928.5,"scrollY":528},
 {"id":5,"expanded":true,"name":"Klein Dutschen","order":5,"parentId":1,"scrollX":1571,"scrollY":749},
 {"id":6,"expanded":false,"name":"Ulli´s Mama Haus","order":7,"parentId":5,"scrollX":928.5,"scrollY":528},
@@ -25,10 +25,10 @@ null,
 {"id":23,"expanded":true,"name":"IFB Zentrale3","order":23,"parentId":22,"scrollX":928.5,"scrollY":873},
 {"id":24,"expanded":true,"name":"IFB Zentrale2","order":24,"parentId":22,"scrollX":940.5,"scrollY":847.5},
 {"id":25,"expanded":true,"name":"IFB Zentrale1","order":25,"parentId":22,"scrollX":1571,"scrollY":847},
-{"id":26,"expanded":true,"name":"Klein Dutschen(Chaos)","order":9,"parentId":5,"scrollX":1571,"scrollY":819},
+{"id":26,"expanded":true,"name":"Klein Dutschen(Chaos)","order":9,"parentId":5,"scrollX":938.25,"scrollY":819},
 {"id":27,"expanded":true,"name":"Nemfis","order":27,"parentId":1,"scrollX":1571,"scrollY":641},
 {"id":28,"expanded":false,"name":"Stadt Nemfis","order":28,"parentId":27,"scrollX":1571,"scrollY":991},
-{"id":29,"expanded":false,"name":"Küste Nemfis","order":29,"parentId":27,"scrollX":1571,"scrollY":720},
+{"id":29,"expanded":false,"name":"Küste Nemfis","order":29,"parentId":27,"scrollX":938.25,"scrollY":718.5},
 {"id":30,"expanded":false,"name":"Festung Nemfis","order":30,"parentId":27,"scrollX":1571,"scrollY":641},
-{"id":31,"expanded":false,"name":"Ausgrabung_Nemfis","order":31,"parentId":27,"scrollX":1571,"scrollY":641}
+{"id":31,"expanded":false,"name":"Ausgrabung_Nemfis","order":31,"parentId":27,"scrollX":926.25,"scrollY":520.5}
 ]
